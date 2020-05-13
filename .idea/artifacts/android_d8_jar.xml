@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="android-d8:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/android_d8_jar</output-path>
+    <root id="archive" name="android-d8.jar">
+      <element id="module-output" name="android-d8" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/guava-29.0-android.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/fastutil-8.3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/org.json.simple-0.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/asm-all-6.0_BETA.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/commons-compress-1.18.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/jopt-simple-5.0.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
